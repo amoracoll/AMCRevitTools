@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LpE8BRopIzs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arnau.mora_modelical\\source\\repos_personal\\AMCRevitTools\\AMCRevitTools.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arnau.mora_modelical\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\arnau.mora_modelical\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net47\\1.0.3\\microsoft.netframework.referenceassemblies.net47.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

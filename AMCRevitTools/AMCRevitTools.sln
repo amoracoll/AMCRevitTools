@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35507.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AMCRevitTools", "AMCRevitTools.csproj", "{090E5F89-A750-4094-BDA6-A01B45BF4825}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		R2020|Any CPU = R2020|Any CPU
+		R2021|Any CPU = R2021|Any CPU
+		R2022|Any CPU = R2022|Any CPU
+		R2023|Any CPU = R2023|Any CPU
+		R2024|Any CPU = R2024|Any CPU
+		R2025|Any CPU = R2025|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{090E5F89-A750-4094-BDA6-A01B45BF4825}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{090E5F89-A750-4094-BDA6-A01B45BF4825}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{090E5F89-A750-4094-BDA6-A01B45BF4825}.R2020|Any CPU.ActiveCfg = R2020|Any CPU
+		{090E5F89-A750-4094-BDA6-A01B45BF4825}.R2020|Any CPU.Build.0 = R2020|Any CPU
+		{090E5F89-A750-4094-BDA6-A01B45BF4825}.R2021|Any CPU.ActiveCfg = R2021|Any CPU
+		{090E5F89-A750-4094-BDA6-A01B45BF4825}.R2021|Any CPU.Build.0 = R2021|Any CPU
+		{090E5F89-A750-4094-BDA6-A01B45BF4825}.R2022|Any CPU.ActiveCfg = R2022|Any CPU
+		{090E5F89-A750-4094-BDA6-A01B45BF4825}.R2022|Any CPU.Build.0 = R2022|Any CPU
+		{090E5F89-A750-4094-BDA6-A01B45BF4825}.R2023|Any CPU.ActiveCfg = R2023|Any CPU
+		{090E5F89-A750-4094-BDA6-A01B45BF4825}.R2023|Any CPU.Build.0 = R2023|Any CPU
+		{090E5F89-A750-4094-BDA6-A01B45BF4825}.R2024|Any CPU.ActiveCfg = R2024|Any CPU
+		{090E5F89-A750-4094-BDA6-A01B45BF4825}.R2024|Any CPU.Build.0 = R2024|Any CPU
+		{090E5F89-A750-4094-BDA6-A01B45BF4825}.R2025|Any CPU.ActiveCfg = R2025|Any CPU
+		{090E5F89-A750-4094-BDA6-A01B45BF4825}.R2025|Any CPU.Build.0 = R2025|Any CPU
+		{090E5F89-A750-4094-BDA6-A01B45BF4825}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{090E5F89-A750-4094-BDA6-A01B45BF4825}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A4E90B2-C091-400D-BB93-1132786EACB4}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command AMCRevitTools</Text>
+    <Description>Some description for AMCRevitTools</Description>
+    <Assembly>AMCRevitTools/AMCRevitTools.dll</Assembly>
+    <FullClassName>AMCRevitTools.Command</FullClassName>
+    <ClientId>35b98bed-a5e6-439c-8f91-01c8ff02d02d</ClientId>
+    <VendorId>Edit this in settings</VendorId>
+    <VendorDescription> (company + authors + website)</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application AMCRevitTools</Name>
+    <Assembly>AMCRevitTools/AMCRevitTools.dll</Assembly>
+    <FullClassName>AMCRevitTools.App</FullClassName>
+    <ClientId>f134822d-e003-4d92-a7bd-cb997651cee8</ClientId>
+    <VendorId>Edit this in settings</VendorId>
+    <VendorDescription> (company + authors + website)</VendorDescription>
+  </AddIn>
+</RevitAddIns>
